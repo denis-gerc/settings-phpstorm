@@ -3,10 +3,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt insert" />
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
-  <action id="Refactorings.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
-    <keyboard-shortcut first-keystroke="shift t" />
-  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift z" />
   </action>
