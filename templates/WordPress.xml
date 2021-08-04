@@ -1,0 +1,7 @@
+<templateSet group="WordPress">
+  <template name="loop" value="&lt;?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?&gt;&#10;&#9;&lt;!-- Цикл WordPress --&gt;&#10;&#9;&lt;p&gt;Выводим данные записи. Здесь работают функции для цикла, например, the_title() &lt;/p&gt;&#10;&#9;&lt;h2&gt;&lt;?php the_title() ?&gt;&lt;/h2&gt; &#10;&lt;?php endwhile; else : ?&gt;&#10;&#9;&lt;p&gt;Записей нет.&lt;/p&gt;&#10;&lt;?php endif; ?&gt;" description="Main loop  for Wordpress" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
