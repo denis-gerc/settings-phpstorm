@@ -4,4 +4,12 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="gpost" value="/**&#10;* https://wp-kama.ru/function/get_post&#10;*/&#10;&#10;$post = get_post( $POST$, $OUTPUT$, $FILTER$ );&#10;" description="Get the data of the post. Return Object WP_Post" toReformat="false" toShortenFQNames="true">
+    <variable name="POST" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OUTPUT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FILTER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
