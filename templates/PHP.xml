@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="debug" value="/**&#10; * Debug&#10; * &#10; * @param $data&#10; */&#10;&#10;function debug( $data ) {&#10;    echo '&lt;pre&gt;';&#10;    var_dump( $data );&#10;    echo '&lt;/pre&gt;';&#10;}" description="Beautify var_dump (&lt;pre&gt;var_dump&lt;pre&gt;)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
