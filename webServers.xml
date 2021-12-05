@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="c67e356a-b62a-46c4-ab9e-e90e13bc66b5" name="OpenServerF">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
-    </option>
-  </component>
-</application>
