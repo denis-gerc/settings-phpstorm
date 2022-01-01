@@ -17,5 +17,6 @@
     <driver id="mysql_aurora">
       <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="2.7.3" />
     </driver>
+    <driver id="java.sql.Driver" name="User Driver" driver-class="java.sql.Driver" />
   </component>
 </application>
