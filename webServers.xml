@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2fa62b92-008d-41b9-af7d-a14211f2a965" name="reg_ru" url="https://webnovichok.ru/">
+        <fileTransfer rootFolder="/www/webnovichok.ru" host="server198.hosting.reg.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
