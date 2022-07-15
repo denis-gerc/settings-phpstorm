@@ -1,12 +1,12 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="bbf71b8c-dfaa-41d2-8ef3-d3233c6d78b3" name="PHP 7.4" home="F:\OpenServerPanel\modules\php\PHP_8.1\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="bbf71b8c-dfaa-41d2-8ef3-d3233c6d78b3" name="PHP 8.1" home="F:\OpenServerPanel\modules\php\PHP_8.1\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.4">
+      <interpreter name="PHP 8.1">
         <phpinfo binary_type="PHP" php_cgi="F:\OpenServerPanel\modules\php\PHP_8.1\php-cgi.exe" php_cli="F:\OpenServerPanel\modules\php\PHP_8.1\php.exe" path_separator=";" version="8.1.5">
           <additional_php_ini />
           <configuration_file>F:\OpenServerPanel\modules\php\PHP_8.1\php.ini</configuration_file>
