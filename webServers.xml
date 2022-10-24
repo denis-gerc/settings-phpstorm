@@ -8,7 +8,7 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="393793b5-3f0f-46e4-9857-374a1ad25508" name="metkor_u1734035" url="http://server239.hosting.reg.ru">
+      <webServer id="af467dd8-d0e7-4b52-9266-b77c022bb723" name="metkor_server" url="http://server239.hosting.reg.ru">
         <fileTransfer rootFolder="/www" host="server239.hosting.reg.ru" port="21">
           <advancedOptions>
             <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
