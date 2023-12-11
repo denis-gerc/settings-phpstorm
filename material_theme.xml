@@ -5,7 +5,10 @@
     <option name="pristineConfig" value="false" />
     <option name="settingsSelectedTab" value="5" />
     <option name="accentColor" value="009688" />
+    <option name="secondAccentColor" />
+    <option name="highlightColor" />
+    <option name="focusColor" />
     <option name="userId" value="261437b5:174b6ae5dcb:-8000" />
-    <option name="version" value="8.12.6" />
+    <option name="version" value="8.13.2" />
   </component>
 </application>
