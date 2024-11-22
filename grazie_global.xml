@@ -10,8 +10,8 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="с MySQL" />
             <option value="не правильный ответ если таков был не правильный ответ если таков был 1." />
+            <option value="с MySQL" />
           </set>
         </option>
       </SuppressingContext>
