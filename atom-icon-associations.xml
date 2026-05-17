@@ -171,6 +171,17 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^\.distignore$" />
+            <option name="pattern" value="^\.distignore$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Wordpress Distignore" />
+            <option name="icon" value="/icons/files/wordpressignore.svg" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
