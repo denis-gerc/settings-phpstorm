@@ -644,6 +644,19 @@
             <option name="folderIconColor" value="C5CAE9" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(contracts?|pacts?)$" />
+            <option name="pattern" value="^[\._]?(contracts?|pacts?)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Contract" />
+            <option name="icon" value="/contract.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="448aff" />
+            <option name="folderIconColor" value="bbdefb" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
