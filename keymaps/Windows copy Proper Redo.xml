@@ -11,6 +11,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt home" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="EditorJoinLines" />
+  <action id="ImplementMethods" />
+  <action id="InsertLiveTemplate" />
   <action id="NewScratchFile">
     <keyboard-shortcut first-keystroke="shift ctrl alt insert" />
     <keyboard-shortcut first-keystroke="alt n" />
@@ -18,4 +21,6 @@
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift z" />
   </action>
+  <action id="UsageFiltering.Imports" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
 </keymap>
